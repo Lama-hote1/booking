@@ -28,7 +28,7 @@ function validateForm() {
 
 
 function sendToWhatsapp() {
-    let number = "+201004782834";
+    let number = "+201005535781";
     let name = document.getElementById('guestname').value;
     let phone1 = document.getElementById('phone').value;
     let checkin = document.getElementById('checkin').value;
